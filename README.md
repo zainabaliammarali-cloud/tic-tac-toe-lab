@@ -12,8 +12,11 @@ so basically its a fun basic game that required 2 players one of them will prese
 
 ## User Stories
 1- i want a tilte appers on the page so i clearly know iam in the right page
+
 2- i want to know that if its my turn or not 
+
 3-i want to know the status of the game 
+
 ## Screenshots
 
 
